@@ -1,0 +1,21 @@
+1	
+0	upload/
+0	admin/
+0	api/
+0	backup/
+0	common/
+0	config/
+0	conf/
+0	files/
+0	.git/
+0	.svn/
+0	~admin/
+0	~administrator/
+0	~bin/
+0	~ftp/
+0	~log/
+0	~logs/
+0	~lp/
+0	~sys/
+0	~test/
+0	~www/
